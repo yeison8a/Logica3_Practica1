@@ -1,0 +1,533 @@
+{
+  "familia1": [
+    {
+      "nombre": "Juan",
+      "genero": "masculino",
+      "edad": 30
+    },
+    {
+      "nombre": "Maria",
+      "genero": "femenino",
+      "edad": 28
+    },
+    {
+      "nombre": "Pedro",
+      "genero": "masculino",
+      "edad": 5
+    },
+    {
+      "nombre": "Ana",
+      "genero": "femenino",
+      "edad": 2
+    }
+  ],
+  "familia2": [
+    {
+      "nombre": "Carlos",
+      "genero": "masculino",
+      "edad": 45
+    },
+    {
+      "nombre": "Luisa",
+      "genero": "femenino",
+      "edad": 42
+    },
+    {
+      "nombre": "Miguel",
+      "genero": "masculino",
+      "edad": 16
+    },
+    {
+      "nombre": "Sofia",
+      "genero": "femenino",
+      "edad": 12
+    }
+  ],
+  "familia3": [
+    {
+      "nombre": "Jose",
+      "genero": "masculino",
+      "edad": 55
+    },
+    {
+      "nombre": "Fabiola",
+      "genero": "femenino",
+      "edad": 48
+    },
+    {
+      "nombre": "Alejandra",
+      "genero": "femenino",
+      "edad": 19
+    },
+    {
+      "nombre": "Pablo",
+      "genero": "masculino",
+      "edad": 15
+    }
+  ],
+  "familia4": [
+    {
+      "nombre": "Hector",
+      "genero": "masculino",
+      "edad": 37
+    },
+    {
+      "nombre": "Laura",
+      "genero": "femenino",
+      "edad": 35
+    },
+    {
+      "nombre": "Valeria",
+      "genero": "femenino",
+      "edad": 9
+    },
+    {
+      "nombre": "Maximo",
+      "genero": "masculino",
+      "edad": 4
+    }
+  ],
+  "familia5": [
+    {
+      "nombre": "Ricardo",
+      "genero": "masculino",
+      "edad": 60
+    },
+    {
+      "nombre": "Carmen",
+      "genero": "femenino",
+      "edad": 58
+    },
+    {
+      "nombre": "Marcela",
+      "genero": "femenino",
+      "edad": 25
+    }
+  ],
+"familia6": [
+    {
+      "nombre": "Diego",
+      "genero": "masculino",
+      "edad": 40
+    },
+    {
+      "nombre": "Cristina",
+      "genero": "femenino",
+      "edad": 38
+    },
+    {
+      "nombre": "Santiago",
+      "genero": "masculino",
+      "edad": 12
+    },
+    {
+      "nombre": "Isabel",
+      "genero": "femenino",
+      "edad": 10
+    }
+  ],
+  "familia7": [
+    {
+      "nombre": "Federico",
+      "genero": "masculino",
+      "edad": 50
+    },
+    {
+      "nombre": "Silvia",
+      "genero": "femenino",
+      "edad": 47
+    },
+    {
+      "nombre": "Tomas",
+      "genero": "masculino",
+      "edad": 23
+    },
+    {
+      "nombre": "Carla",
+      "genero": "femenino",
+      "edad": 19
+    }
+  ],
+  "familia8": [
+    {
+      "nombre": "Andres",
+      "genero": "masculino",
+      "edad": 33
+    },
+    {
+      "nombre": "Ana",
+      "genero": "femenino",
+      "edad": 30
+    },
+    {
+      "nombre": "Mateo",
+      "genero": "masculino",
+      "edad": 3
+    },
+    {
+      "nombre": "Lucia",
+      "genero": "femenino",
+      "edad": 1
+    }
+  ],
+  "familia9": [
+    {
+      "nombre": "Oscar",
+      "genero": "masculino",
+      "edad": 65
+    },
+    {
+      "nombre": "Sandra",
+      "genero": "femenino",
+      "edad": 63
+    },
+    {
+      "nombre": "Lorenzo",
+      "genero": "masculino",
+      "edad": 30
+    },
+    {
+      "nombre": "Emilia",
+      "genero": "femenino",
+      "edad": 27
+    }
+  ],
+  "familia10": [
+    {
+      "nombre": "Raul",
+      "genero": "masculino",
+      "edad": 42
+    },
+    {
+      "nombre": "Marta",
+      "genero": "femenino",
+      "edad": 39
+    },
+    {
+      "nombre": "Leo",
+      "genero": "masculino",
+      "edad": 7
+    },
+    {
+      "nombre": "Ana",
+      "genero": "femenino",
+      "edad": 4
+    }
+  ],
+  "familia11": [
+    {
+      "nombre": "Juan",
+      "genero": "masculino",
+      "edad": 45
+    },
+    {
+      "nombre": "María",
+      "genero": "femenino",
+      "edad": 42
+    },
+    {
+      "nombre": "Pablo",
+      "genero": "masculino",
+      "edad": 18
+    },
+    {
+      "nombre": "Lucía",
+      "genero": "femenino",
+      "edad": 14
+    }
+  ],
+  "familia12": [
+    {
+      "nombre": "Carlos",
+      "genero": "masculino",
+      "edad": 33
+    },
+    {
+      "nombre": "Ana",
+      "genero": "femenino",
+      "edad": 29
+    },
+    {
+      "nombre": "Mateo",
+      "genero": "masculino",
+      "edad": 5
+    },
+    {
+      "nombre": "Sofía",
+      "genero": "femenino",
+      "edad": 3
+    }
+  ],
+  "familia13": [
+    {
+      "nombre": "Diego",
+      "genero": "masculino",
+      "edad": 50
+    },
+    {
+      "nombre": "Verónica",
+      "genero": "femenino",
+      "edad": 45
+    },
+    {
+      "nombre": "José",
+      "genero": "masculino",
+      "edad": 21
+    },
+    {
+      "nombre": "Catalina",
+      "genero": "femenino",
+      "edad": 16
+    }
+  ],
+  "familia14": [
+    {
+      "nombre": "Felipe",
+      "genero": "masculino",
+      "edad": 28
+    },
+    {
+      "nombre": "Isabel",
+      "genero": "femenino",
+      "edad": 25
+    },
+    {
+      "nombre": "Tomás",
+      "genero": "masculino",
+      "edad": 1
+    }
+  ],
+  "familia15": [
+    {
+      "nombre": "Rafael",
+      "genero": "masculino",
+      "edad": 38
+    },
+    {
+      "nombre": "Paulina",
+      "genero": "femenino",
+      "edad": 35
+    },
+    {
+      "nombre": "Victoria",
+      "genero": "femenino",
+      "edad": 8
+    },
+    {
+      "nombre": "Benjamín",
+      "genero": "masculino",
+      "edad": 6
+    }
+  ],
+  "familia16": [
+    {
+      "nombre": "Federico",
+      "genero": "masculino",
+      "edad": 45
+    },
+    {
+      "nombre": "Lucía",
+      "genero": "femenino",
+      "edad": 44
+    },
+    {
+      "nombre": "Tomás",
+      "genero": "masculino",
+      "edad": 19
+    },
+    {
+      "nombre": "Carla",
+      "genero": "femenino",
+      "edad": 17
+    },
+    {
+      "nombre": "Nicolás",
+      "genero": "masculino",
+      "edad": 11
+    }
+  ],
+  "familia17": [
+    {
+      "nombre": "Gabriel",
+      "genero": "masculino",
+      "edad": 33
+    },
+    {
+      "nombre": "Mariana",
+      "genero": "femenino",
+      "edad": 30
+    },
+    {
+      "nombre": "Emilia",
+      "genero": "femenino",
+      "edad": 4
+    },
+    {
+      "nombre": "Santiago",
+      "genero": "masculino",
+      "edad": 2
+    }
+  ],
+  "familia18": [
+    {
+      "nombre": "Mateo",
+      "genero": "masculino",
+      "edad": 40
+    },
+    {
+      "nombre": "Ana",
+      "genero": "femenino",
+      "edad": 38
+    },
+    {
+      "nombre": "Diego",
+      "genero": "masculino",
+      "edad": 12
+    }
+  ],
+  "familia19": [
+    {
+      "nombre": "Eduardo",
+      "genero": "masculino",
+      "edad": 52
+    },
+    {
+      "nombre": "Sofía",
+      "genero": "femenino",
+      "edad": 51
+    },
+    {
+      "nombre": "Lucas",
+      "genero": "masculino",
+      "edad": 24
+    },
+    {
+      "nombre": "Camila",
+      "genero": "femenino",
+      "edad": 21
+    }
+  ],
+  "familia20": [
+    {
+      "nombre": "Juan",
+      "genero": "masculino",
+      "edad": 62
+    },
+    {
+      "nombre": "Marta",
+      "genero": "femenino",
+      "edad": 58
+    }
+  ],
+"familia21": [
+    {
+      "nombre": "Juan",
+      "genero": "masculino",
+      "edad": 45
+    },
+    {
+      "nombre": "Ana",
+      "genero": "femenino",
+      "edad": 42
+    },
+    {
+      "nombre": "Lucía",
+      "genero": "femenino",
+      "edad": 16
+    },
+    {
+      "nombre": "Santiago",
+      "genero": "masculino",
+      "edad": 12
+    }
+  ],
+  "familia22": [
+    {
+      "nombre": "Pedro",
+      "genero": "masculino",
+      "edad": 32
+    },
+    {
+      "nombre": "María",
+      "genero": "femenino",
+      "edad": 29
+    },
+    {
+      "nombre": "Jorge",
+      "genero": "masculino",
+      "edad": 8
+    },
+    {
+      "nombre": "Paulina",
+      "genero": "femenino",
+      "edad": 5
+    }
+  ],
+  "familia23": [
+    {
+      "nombre": "Roberto",
+      "genero": "masculino",
+      "edad": 58
+    },
+    {
+      "nombre": "Silvia",
+      "genero": "femenino",
+      "edad": 52
+    },
+    {
+      "nombre": "Carla",
+      "genero": "femenino",
+      "edad": 22
+    },
+    {
+      "nombre": "Fabián",
+      "genero": "masculino",
+      "edad": 19
+    }
+  ],
+  "familia24": [
+    {
+      "nombre": "Diego",
+      "genero": "masculino",
+      "edad": 33
+    },
+    {
+      "nombre": "Valentina",
+      "genero": "femenino",
+      "edad": 29
+    },
+    {
+      "nombre": "Simón",
+      "genero": "masculino",
+      "edad": 5
+    },
+    {
+      "nombre": "Mateo",
+      "genero": "masculino",
+      "edad": 2
+    }
+  ],
+  "familia25": [
+    {
+      "nombre": "Eduardo",
+      "genero": "masculino",
+      "edad": 40
+    },
+    {
+      "nombre": "Laura",
+      "genero": "femenino",
+      "edad": 38
+    },
+    {
+      "nombre": "Daniel",
+      "genero": "masculino",
+      "edad": 7
+    },
+    {
+      "nombre": "Sofía",
+      "genero": "femenino",
+      "edad": 4
+    }
+  ]
+}
+
