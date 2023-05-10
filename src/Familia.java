@@ -13,4 +13,25 @@ public class Familia {
         this.personas = personas;
     }
 
+    public boolean contienePersona(Persona persona) {
+        for (Persona p : personas) {
+            if (p.equals(persona)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public int getNumeroPersonas() {
+        return personas.length;
+    }    
+    
+    public void eliminarPersona(Persona persona) {
+        for (int i = 0; i < personas.length; i++) {
+            if (personas[i].equals(persona)) {
+                personas[i] = null;
+                return;
+            }
+        }
+    }
 }
